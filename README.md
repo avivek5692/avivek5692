@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Astikar Vivek Kumar</h1>
 <h3 align="center">A passionate Data Scientist & Engineer  from India</h3>
 
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deeprajvadhwane&label=Profile%20views&color=0e75b6&style=flat" alt="deeprajvadhwane" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deeprajvadhwane" alt="deeprajvadhwane" /></a> </p>
 
 - 🌱 I’m currently working as a Data Scientist & Engineer 
 
