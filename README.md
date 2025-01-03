@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Astikar Vivek Kumar</h1>
+<h1 align="center">Hi 👋, I'm Vivek Kumar Astikar</h1>
 <h3 align="center">A passionate Data Scientist & Engineer  from India</h3>
 
 
